@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Implementation\\Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Mladen Boskovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mladen Boskovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Mladen Boskovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mladen Boskovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Mladen Boskovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mladen Boskovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Implementation\\Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Implementation\\Implementation.csproj",
+        "projectName": "Implementation",
+        "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Implementation\\Implementation.csproj",
+        "packagesPath": "C:\\Users\\Mladen Boskovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mladen Boskovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\MessageBus.csproj": {
+                "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\MessageBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Bugsnag.AspNet.Core": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\MessageBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\MessageBus.csproj",
+        "projectName": "MessageBus",
+        "projectPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\MessageBus.csproj",
+        "packagesPath": "C:\\Users\\Mladen Boskovic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mladen Boskovic\\Desktop\\web-api-practice1\\web-api-practice1\\MessageBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mladen Boskovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

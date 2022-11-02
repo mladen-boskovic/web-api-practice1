@@ -1,0 +1,68 @@
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

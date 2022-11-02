@@ -1,0 +1,288 @@
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.exe
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Bugsnag.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Bugsnag.AspNet.Core.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.Core.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Implementation.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\refint\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\Hangfire.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\obj\Debug\net6.0\ref\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\appsettings.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\EasyNetQ.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Hangfire\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.exe
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\appsettings.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Bugsnag.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Bugsnag.AspNet.Core.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\EasyNetQ.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.Core.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Implementation.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\refint\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Hangfire\obj\Debug\net6.0\ref\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.exe
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\appsettings.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.deps.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.runtimeconfig.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Bugsnag.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Bugsnag.AspNet.Core.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\EasyNetQ.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.Core.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Domain.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Implementation.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\Domain.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.csproj.CopyComplete
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\refint\Hangfire.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\Hangfire.genruntimeconfig.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Hangfire\obj\Debug\net6.0\ref\Hangfire.dll

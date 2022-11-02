@@ -1,0 +1,48 @@
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\source\repos\web-api-practice1\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\Application\obj\Debug\net6.0\ref\Application.dll

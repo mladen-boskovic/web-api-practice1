@@ -1,0 +1,36 @@
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\bin\Debug\net6.0\MessageBus.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\refint\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1 - Copy\MessageBus\obj\Debug\net6.0\ref\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.deps.json
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\refint\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\new folder\IV + webapipractice1\web-api-practice1\MessageBus\obj\Debug\net6.0\ref\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.deps.json
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\bin\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.csproj.AssemblyReference.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfoInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.AssemblyInfo.cs
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\refint\MessageBus.dll
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\MessageBus.pdb
+C:\Users\Mladen Boskovic\Desktop\web-api-practice1\web-api-practice1\MessageBus\obj\Debug\net6.0\ref\MessageBus.dll
